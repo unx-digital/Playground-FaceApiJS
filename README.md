@@ -7,7 +7,7 @@
 
 [**face-api.js**](https://www.npmjs.com/package/face-api.js) is a JavaScript face recognition API for the browser and nodejs implemented on top of tensorflow.js core. 
 
-
+![examples](https://raw.githubusercontent.com/unx-digital/Playground-FaceApiJS/master/examples.gif)
 
 # Running the examples to get some inspiration
 
